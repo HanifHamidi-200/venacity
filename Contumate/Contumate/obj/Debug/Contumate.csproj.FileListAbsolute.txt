@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\Contumate\Contumate\bin\Debug\Contumate.exe.config
+C:\Users\hanif\source\repos\Contumate\Contumate\bin\Debug\Contumate.exe.manifest
+C:\Users\hanif\source\repos\Contumate\Contumate\bin\Debug\Contumate.application
+C:\Users\hanif\source\repos\Contumate\Contumate\bin\Debug\Contumate.exe
+C:\Users\hanif\source\repos\Contumate\Contumate\bin\Debug\Contumate.pdb
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.Form1.resources
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.Properties.Resources.resources
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.exe.manifest
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.application
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.exe
+C:\Users\hanif\source\repos\Contumate\Contumate\obj\Debug\Contumate.pdb

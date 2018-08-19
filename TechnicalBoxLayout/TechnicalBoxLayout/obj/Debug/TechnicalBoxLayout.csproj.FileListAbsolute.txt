@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\bin\Debug\TechnicalBoxLayout.exe.config
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\bin\Debug\TechnicalBoxLayout.exe.manifest
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\bin\Debug\TechnicalBoxLayout.application
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\bin\Debug\TechnicalBoxLayout.exe
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\bin\Debug\TechnicalBoxLayout.pdb
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.Form1.resources
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.Properties.Resources.resources
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.exe.manifest
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.application
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.exe
+C:\Users\hanif\source\repos\TechnicalBoxLayout\TechnicalBoxLayout\obj\Debug\TechnicalBoxLayout.pdb

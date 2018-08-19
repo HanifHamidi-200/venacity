@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\MiningBox\MiningBox\bin\Debug\MiningBox.exe.config
+C:\Users\hanif\source\repos\MiningBox\MiningBox\bin\Debug\MiningBox.exe.manifest
+C:\Users\hanif\source\repos\MiningBox\MiningBox\bin\Debug\MiningBox.application
+C:\Users\hanif\source\repos\MiningBox\MiningBox\bin\Debug\MiningBox.exe
+C:\Users\hanif\source\repos\MiningBox\MiningBox\bin\Debug\MiningBox.pdb
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.Form1.resources
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.Properties.Resources.resources
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.exe.manifest
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.application
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.exe
+C:\Users\hanif\source\repos\MiningBox\MiningBox\obj\Debug\MiningBox.pdb

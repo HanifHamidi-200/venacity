@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TechnicalBoxLayout.exe" version="1.0.0.0" publicKeyToken="b62a979b6aaf111b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="F setsquare.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TechnicalBoxLayout" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TechnicalBoxLayout.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 매니페스트 옵션
+          Windows 사용자 계정 컨트롤 수준을 변경하려면 
+          requestedExecutionLevel 노드를 다음 중 하나로 바꾸세요.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+         requestedExecutionLevel 노드를 삭제하세요.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TechnicalBoxLayout.exe" size="28128">
+      <assemblyIdentity name="TechnicalBoxLayout" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hlcdpSpe6wn/x6LSZqztBraYqSTj7pjDEgJ5XkNOPLA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="F setsquare.ico" size="12206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sOh28dQre8NqRjUaypVHgQUn1+qalRx2FT89GsUmU2E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TechnicalBoxLayout.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K87L076\hanif" issuerKeyHash="625010af39ffa768ce4dc23ecad0a4f65e8b76f8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Dq0ykdKb9/Uw/T4wtpgebnRKQBntd7PrHpTPDQonNBw=</DigestValue></Reference></SignedInfo><SignatureValue>c2gbyieaVJ8mI1zv5UR8U4+Z8Av91DDdPaILxuPXCMSoTd9tUvYOAKHhiOl/HWdZtaVxe4Mk5IxZpN0Y7aUdavy4/hNXolBv0fjfPdh+QEgkDAkMoZjMrDJ72v+8w9UQQxg8tJAUNOwcsYlsFZUFZlzpCsSlKfYnuoVZ3a+vYus=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3LyV+0kwzqbr+UQmEH0BbLlN8fGedrtKjWGwhVLxHcU4BCDHX5mP0KOstt6VNactGu0rfK3XFPRIhSfHpLNNtQJkvHR3XPAYpCd3IiF9cimrdF2VuBSSQ2oicceN3etdcZgil48HrGy62YBBtSBAYTWAaWIwRshwMHUqtR0I6S0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1c34270a0dcf941eebb377ed19404a746e1e98b6303efd30f5f79bd29132ad0e" Description="" Url=""><as:assemblyIdentity name="TechnicalBoxLayout.exe" version="1.0.0.0" publicKeyToken="b62a979b6aaf111b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K87L076\hanif</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>X0G2U3PAyS/sfRRfj+WXgpXshi1HwaidF9QijjPK1IE=</DigestValue></Reference></SignedInfo><SignatureValue>rQOli/FM9RxAXZs73ebkTVTXNEkeOwwLv4srjc9nuc4by0JWK9Vz8Lc9lOg57YFsco74xaTz+pbj8LUpY/8YnSnhTJTcqnkKXFUjas/tw0rWW8/JzkHcKQP2CsGMVuoEo5dPNdnaaSZ9lGDreI9lmkqNftFqsJfqTPnZvIGaZJg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3LyV+0kwzqbr+UQmEH0BbLlN8fGedrtKjWGwhVLxHcU4BCDHX5mP0KOstt6VNactGu0rfK3XFPRIhSfHpLNNtQJkvHR3XPAYpCd3IiF9cimrdF2VuBSSQ2oicceN3etdcZgil48HrGy62YBBtSBAYTWAaWIwRshwMHUqtR0I6S0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQftVTa+tLFplCidybITq+3DANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwHhcNMTgwODE5MDgzOTQ3WhcNMTkwODE5MTQzOTQ3WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANy8lftJMM6m6/lEJhB9AWy5TfHxnna7So1hsIVS8R3FOAQgx1+Zj9CjrLbelTWnLRrtK3yt1xT0SIUnx6SzTbUCZLx0d1zwGKQndyIhfXIpq3RdlbgUkkNqInHHjd3rXXGYIpePB6xsutmAQbUgQGE1gGliMEbIcDB1KrUdCOktAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAIIhnVsl1WZR6Wp1YGbwjI6LI2SL+8/uqao1+eQDP0CXsBiCyuU/ZoM7tXPLV1wu+pOdx1cbTf7nlnzJpV3LSKXLGKpPRUJLXr+nTyQ5IqGj9Y7xZKFvZ6SPqqL828v/n7we/Pf8n0q1EJI+bqhXLPiW/8kDQwaosRKuV8fwJgPA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
